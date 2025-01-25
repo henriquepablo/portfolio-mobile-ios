@@ -26,7 +26,7 @@ struct CollapsedProfileView: View {
             }.padding()
             
             HStack {
-                Text("Tap on the profile to expand..")
+                Text("Tap on the photo profile to expand..")
                     .padding(.leading, 20)
                     .font(.callout)
                     .foregroundStyle(.white)
